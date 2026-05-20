@@ -1,6 +1,7 @@
 # PocketLedger
 
 A small Vite + React app for tracking expenses and budgets in the browser.
+https://pocket-ledger-psi.vercel.app/
 
 ## Run locally
 
